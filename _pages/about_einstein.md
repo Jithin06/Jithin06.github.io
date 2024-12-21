@@ -1,4 +1,4 @@
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am Jithin Rajan, a final year undergraduate at National Institute of Technology, Tiruchurappalli majoring in Electronics and Communication Engineering and pursuing a minor in Computer Science and Engineering. My research interests lie in machine learning, computer vision and optimization.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
