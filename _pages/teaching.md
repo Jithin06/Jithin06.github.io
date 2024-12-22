@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /teaching/
-title: teaching
+permalink: /volunteering/
+title: volunteering
 description: Materials for courses you taught. Replace this text with your description.
 nav: true
 nav_order: 4
