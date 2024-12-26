@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 3 with very long name
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
-importance: 3
-category: work
+title: Digital Phenotyping
+description: Python | TensorFlow
+img: assets/img/dp.jpeg
+redirect: https://github.com/Jithin06/digital_phenotyping
+importance: 2
+category: research
 ---
 
 Every project has a beautiful feature showcase page.
