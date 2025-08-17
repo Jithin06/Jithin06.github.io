@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Undergraduate Student. ML Researcher. Basketball Player.
+subtitle: Graduate Student. ML Researcher. Avid Traveller.
 
 profile:
   align: right
