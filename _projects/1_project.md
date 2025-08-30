@@ -4,7 +4,7 @@ title: Sign Language Interpreter
 description: Python | Tensorflow | Streamlit
 img: assets/img/12.jpg
 importance: 1
-redirect: /projects/
+redirect: https://github.com/Jithin06/sign-language-interpreter
 category: research
 related_publications: false
 ---
