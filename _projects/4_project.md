@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Sign Language Interpreter
-description: Python | Tensorflow | Streamlit
-img: assets/img/13.jpg
+title: Co-(l)-de Play
+description: Tezos Blockchain | Python | React
+img: assets/img/14.jpg
 importance: 1
-redirect: https://github.com/Jithin06/sign-language-interpreter
-category: research
+redirect: https://github.com/Jithin06/Co-l-de-Play
+category: hackathon
 related_publications: false
 ---
 
@@ -19,7 +19,7 @@ To give your project a background in the portfolio page, just add the img tag to
     layout: page
     title: project
     description: a project with a background image
-    img: /assets/img/12.jpg
+    img: /assets/img/14.jpg
     ---
 
 <div class="row">

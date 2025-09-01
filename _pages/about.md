@@ -18,7 +18,9 @@ profile:
 social: true # includes social icons at the bottom of the page
 ---
 
-I am Jithin Rajan, a graduate student at the University of Southern California pursuing an MS in Computer Science. I recently graduated from the National Institute of Technology, Tiruchurappalli with a B.Tech. majoring in Electronics and Communication Engineering and a minor in Computer Science and Engineering. My research interests lie in machine learning, computer vision, optimization and their applications in healthcare.
+I am Jithin Rajan, a graduate student at the University of Southern California pursuing an MS in Computer Science. 
+
+I recently graduated from the National Institute of Technology, Tiruchurappalli with a B.Tech. majoring in Electronics and Communication Engineering and a minor in Computer Science and Engineering. My research interests lie in machine learning, computer vision, optimization and their applications in healthcare.
 
 During the last three years, I have worked as a research assistant under the guidance of amazing professors including Dr. Hari M. Varma at IIT Bombay, Dr. Anupam Chattopadhyay from NTU Singapore, Dr. Jitin Singla at IIT Roorkee and Dr. S. Deivalakshmi from NIT Trichy.
 
