@@ -2,10 +2,10 @@
 layout: page
 title: Co-(l)-de Play
 description: Tezos Blockchain | Python | React
-img: assets/img/14.jpg
-importance: 1
+img: assets/img/blockch.jpg
+importance: 4
 redirect: https://github.com/Jithin06/Co-l-de-Play
-category: hackathon
+category: research
 related_publications: false
 ---
 
