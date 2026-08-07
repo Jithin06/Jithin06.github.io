@@ -26,3 +26,14 @@ group :other_plugins do
     gem 'feedjira'
     gem 'httparty'
 end
+# Former stdlib libraries that are no longer default gems on Ruby 3.4+/4.0.
+# Plugins in this Gemfile still require them at load time.
+group :stdlib_shims do
+    gem 'base64'
+    gem 'bigdecimal'
+    gem 'csv'
+    gem 'logger'
+    gem 'mutex_m'
+    gem 'observer'
+    gem 'ostruct'
+end

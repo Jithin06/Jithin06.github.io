@@ -1,14 +1,10 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - Jithin06
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - Jithin06/sign-language-interpreter
+  - Jithin06/dino_game
+  - Jithin06/digital_phenotyping
+  - Jithin06/Co-l-de-Play

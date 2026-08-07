@@ -1,30 +1,123 @@
 {
   "basics": {
     "name": "Jithin Rajan",
-    "location":"Los Angeles, United States",
-    "label": "CS Grad Student at USC",
+    "location": "Los Angeles, United States",
+    "label": "MS CS Student at USC | Software & Robotics Engineer",
     "image": "",
     "email": "jithinr2105@gmail.com",
-    "url": "https://jithin06.github.io/"
+    "url": "https://jithin06.github.io/",
+    "summary": "Software engineer working across robotics, computer vision and backend systems. Currently building real-time robot control and perception software at USC's Baum Family Maker Space."
   },
   "education": [
     {
       "institution": "University of Southern California",
       "location": "Los Angeles, USA",
       "url": "https://www.usc.edu/",
-      "area": "Computer Science",
+      "area": "Computer Science — GPA: 3.92/4.00",
       "studyType": "Master of Science",
       "startDate": "2025-08-01",
-      "endDate": "2027-05-01"
+      "endDate": "2027-12-01",
+      "courses": [
+        "Robot Manipulation (Doctoral)",
+        "Machine Learning",
+        "Applied Natural Language Processing",
+        "Analysis of Algorithms",
+        "Operating Systems",
+        "Programming System Design (Java)"
+      ]
     },
     {
       "institution": "National Institute of Technology, Tiruchirappalli",
       "location": "Tamil Nadu, India",
       "url": "https://www.nitt.edu/",
-      "area": "Electronics and Communication Engineering, Minor in Computer Science and Engineering",
+      "area": "Electronics and Communication Engineering, Minor in Computer Science and Engineering — GPA: 3.53/4.00",
       "studyType": "Bachelor of Technology",
-      "startDate": "2021-07-01",
+      "startDate": "2021-12-01",
       "endDate": "2025-05-01"
+    }
+  ],
+  "work": [
+    {
+      "name": "USC Baum Family Maker Space — Advanced Fabrication Lab",
+      "position": "Software & Robotics Engineer",
+      "url": "https://viterbiundergrad.usc.edu/makerspace/",
+      "location": "Los Angeles, USA",
+      "startDate": "2026-01-01",
+      "endDate": "",
+      "summary": "Python, Computer Vision, Robotics, Automation",
+      "highlights": [
+        "Designed and validated offline robotic simulations and toolpaths for a 6-axis Stäubli TX60 and a KUKA KR100P-2 arm using Rhino, Grasshopper and RoboDK, catching fabrication errors before physical execution.",
+        "Built Python integration pipelines for real-time control of the robots, enabling online programming and closed-loop execution.",
+        "Trained Vision Transformer-based computer vision models on live camera feeds for real-time robot perception and planning.",
+        "Streamlined intake and fabrication workflows for 3D-printing work orders across 4 manufacturing systems (Prusa MK4, Prusa HT90, Formlabs 3L, Stratasys F370) with Python scripts built against the Trello API."
+      ]
+    },
+    {
+      "name": "Indian Institute of Technology Bombay",
+      "position": "Undergraduate Research Assistant",
+      "url": "https://www.iitb.ac.in/",
+      "location": "Mumbai, India",
+      "startDate": "2024-05-01",
+      "endDate": "2024-11-01",
+      "summary": "PyTorch, MATLAB — TEBI Lab, BSBE Department, with Dr. Hari M. Varma",
+      "highlights": [
+        "Designed and trained ConvGRU, LSTM and deep CNN architectures in PyTorch to estimate cerebral blood flow indices directly from optical imaging signals, replacing slower traditional computation methods.",
+        "Built an automated signal-processing pipeline for denoising and normalizing raw optical data, cutting manual effort by over 30%.",
+        "Validated the deep learning models against classical ML regressors (Random Forests, SVM, KNN), achieving a 15% reduction in prediction error."
+      ]
+    },
+    {
+      "name": "Nanyang Technological University Singapore",
+      "position": "Research Intern",
+      "url": "https://www.ntu.edu.sg/",
+      "location": "Singapore",
+      "startDate": "2023-06-01",
+      "endDate": "2023-09-01",
+      "summary": "PyTorch, Federated Learning, Sparse Matrices",
+      "highlights": [
+        "Investigated security vulnerabilities in gossip protocol-based federated learning systems, simulating data-poisoning attacks to measure model degradation under adversarial conditions.",
+        "Improved model robustness, lowering attack success rate by 30% via engineered adversarial defense strategies."
+      ]
+    },
+    {
+      "name": "Indian Institute of Technology Roorkee",
+      "position": "Research Intern",
+      "url": "https://www.iitr.ac.in/",
+      "location": "Roorkee, India",
+      "startDate": "2023-05-01",
+      "endDate": "2023-07-01",
+      "summary": "Python, TensorFlow, ChimeraX — with Dr. Jitin Singla",
+      "highlights": [
+        "Developed a Spectral Fourier Shell Correlation (SFSC)-based alignment algorithm for GroEL cryo-electron tomography 3D reconstructions, improving particle-alignment accuracy prior to volume reconstruction.",
+        "Replaced the baseline optimizer with advanced gradient descent methods, cutting computation time by 25% and improving alignment accuracy by 8%."
+      ]
+    },
+    {
+      "name": "National Institute of Technology Tiruchirappalli",
+      "position": "Undergraduate Research Assistant",
+      "url": "https://www.nitt.edu/",
+      "location": "Tiruchirappalli, India",
+      "startDate": "2023-01-01",
+      "endDate": "2023-06-01",
+      "summary": "Deep Learning, Image Processing — with Dr. S. Deivalakshmi",
+      "highlights": [
+        "Engineered a self-governing super-resolution algorithm for CT chest imaging, improving PSNR by 9.27% and SSIM by 6.17% over baseline super-resolution models.",
+        "Co-authored and presented the resulting paper at the IEEE IC2E3 2023 conference (NIT Uttarakhand)."
+      ]
+    },
+    {
+      "name": "Perfios Software Solutions Pvt. Ltd.",
+      "position": "Data Science and Consulting Intern",
+      "url": "https://www.perfios.com/",
+      "location": "Bangalore, India",
+      "startDate": "2022-11-01",
+      "endDate": "2023-03-01",
+      "summary": "Python, PowerBI",
+      "highlights": [
+        "Analysed retail banking markets across 21 MENA countries with cross-functional teams, spanning market sizing, competitor dynamics and legal compliance.",
+        "Benchmarked features of 9 SaaS products with product managers and business stakeholders to tailor modification recommendations to evolving market needs.",
+        "Delivered ML-powered loan risk and repayment models, raising risk assessment accuracy by 12% on pilot portfolios."
+      ]
     }
   ],
   "publications": [
@@ -44,6 +137,87 @@
       "url": "https://drive.google.com/file/d/1R8E0nPYddrqKFRvydw64r8-b7n6xwpQO/view?usp=sharing"
     }
   ],
+  "projects": [
+    {
+      "name": "Image-to-STL Converter",
+      "summary": "Python, FastAPI, React, PyTorch, Hugging Face Transformers",
+      "highlights": [
+        "Built a full-stack local AI pipeline (FastAPI backend, React frontend) that converts 2D photos into watertight, 3D-printable STL meshes with zero external API cost.",
+        "Integrated Depth-Anything-V2 for monocular depth estimation and SAM (Segment Anything) for object segmentation.",
+        "Engineered a geometric shape classifier using mask circularity, aspect ratio and depth-profile correlation to generate parametric meshes for recognized primitives and bas-relief heightmaps otherwise."
+      ]
+    },
+    {
+      "name": "Academia",
+      "summary": "Node.js, React, MongoDB, REST APIs, AWS Lambda, API Gateway, Textract",
+      "highlights": [
+        "Contributed to a full-stack platform (Node.js/Express REST API, React/Vite frontend) helping students discover professors by research interest, integrating Typesense for fuzzy, synonym-based search that cut query latency by 10x.",
+        "Built an event-driven paper-summarization pipeline where an API Gateway trigger checks DynamoDB for an existing summary before queuing new requests via SQS to avoid duplicate processing.",
+        "Built a second Lambda that extracts text from uploaded PDFs using Amazon Textract and summarizes it with the Hugging Face BART model, saving results and status to DynamoDB."
+      ]
+    },
+    {
+      "name": "Co(l)de-Play",
+      "url": "https://github.com/Jithin06/Co-l-de-Play",
+      "summary": "Tezos Blockchain, Python, React",
+      "highlights": [
+        "Built an event-ticketing platform backed by blockchain smart contracts, curbing resale price inflation by 80% and ensuring secure ownership verification and regulated ticket transfers.",
+        "Integrated the Tezos blockchain to increase booking throughput and enable near-instant ticket processing during peak demand.",
+        "Developed a React/Vite web application and integrated Temple Wallet for authentication and wallet management."
+      ]
+    },
+    {
+      "name": "Digital Phenotyping",
+      "url": "https://github.com/Jithin06/digital_phenotyping",
+      "summary": "Python, TensorFlow, Scikit-learn",
+      "highlights": [
+        "Developed a CNN-based deep learning framework for Parkinson's disease detection from keystroke dynamics, achieving 95%+ accuracy."
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Languages",
+      "icon": "fa-solid fa-code",
+      "keywords": ["Java", "Python", "C++", "C", "JavaScript", "SQL", "MATLAB", "HTML", "Bash"]
+    },
+    {
+      "name": "Robotics",
+      "icon": "fa-solid fa-robot",
+      "keywords": [
+        "Stäubli TX60",
+        "KUKA KR100P-2",
+        "RoboDK",
+        "Rhino / Grasshopper",
+        "Offline programming & toolpaths",
+        "Real-time closed-loop control"
+      ]
+    },
+    {
+      "name": "Computer Vision & ML",
+      "icon": "fa-solid fa-eye",
+      "keywords": [
+        "PyTorch",
+        "TensorFlow",
+        "OpenCV",
+        "Vision Transformers",
+        "Hugging Face",
+        "Scikit-learn",
+        "NumPy",
+        "Pandas"
+      ]
+    },
+    {
+      "name": "Web & Backend",
+      "icon": "fa-solid fa-server",
+      "keywords": ["React", "Node.js", "Express.js", "FastAPI", "Flask", "REST APIs", "MongoDB", "MySQL", "DynamoDB"]
+    },
+    {
+      "name": "Tools & Platforms",
+      "icon": "fa-solid fa-screwdriver-wrench",
+      "keywords": ["Git", "Docker", "Kubernetes", "AWS (Lambda, API Gateway, SQS, Textract)", "CI/CD", "Tableau"]
+    }
+  ],
   "certificates": [
     {
       "name": "Introduction to Computer Vision and Image Processing",
@@ -58,6 +232,55 @@
       "issuer": "Stanford University | DeepLearning.AI",
       "url": "https://drive.google.com/file/d/1AMSUDbh__XG53ikYKE8paRfQri5dhj7i/view?usp=sharing",
       "icon": "fa-solid fa-tag"
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Spark-A-Change Foundation",
+      "position": "Educator",
+      "location": "Mumbai, India",
+      "startDate": "2024-06-01",
+      "endDate": "2024-08-01",
+      "summary": "Education",
+      "highlights": [
+        "Provided academic tutoring in English and Math for 100+ underprivileged children across Grades 1–9 through biweekly instruction.",
+        "Organized post-class distribution of healthy meals and coordinated weekend activities."
+      ]
+    },
+    {
+      "organization": "180 Degrees Consulting (NIT Trichy Chapter)",
+      "position": "Consultant",
+      "location": "Tiruchirappalli, India",
+      "startDate": "2022-10-01",
+      "endDate": "2023-03-01",
+      "summary": "The world's largest consultancy for non-profit organisations and social enterprises",
+      "highlights": [
+        "Restructured and executed the client acquisition process and expanded the mentor network.",
+        "Undertook a Go-To-Market consulting project, conducted two case competitions and organised ConsultXpo, the chapter's flagship annual event."
+      ]
+    },
+    {
+      "organization": "Festember, NIT Trichy",
+      "position": "Treasury Executive & Senior Marketing Manager",
+      "location": "Tiruchirappalli, India",
+      "startDate": "2022-04-01",
+      "endDate": "2023-09-01",
+      "summary": "Arts and Culture",
+      "highlights": [
+        "Led branding and marketing for one of India's largest student-run cultural festivals, raising ₹3.6M in sponsorship from multinational partners."
+      ]
+    }
+  ],
+  "interests": [
+    {
+      "name": "Research Interests",
+      "icon": "fa-solid fa-microchip",
+      "keywords": [
+        "Software engineering & distributed systems",
+        "Computer vision & visual perception",
+        "Robotics, manipulation & closed-loop control",
+        "Machine learning for imaging and healthcare"
+      ]
     }
   ],
   "languages": [
