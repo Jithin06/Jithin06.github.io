@@ -5,7 +5,7 @@ permalink: /projects/
 description: A selective collection of my projects
 nav: true
 nav_order: 2
-display_categories: [robotics, computer vision, software]
+display_categories: [computer vision, software, robotics]
 horizontal: false
 ---
 
